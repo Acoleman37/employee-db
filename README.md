@@ -1,4 +1,4 @@
-<iframe src="https://drive.google.com/file/d/1rTRkvs-KXX-lt5F8hhp6hKnJpUzz0lH4/preview" width="640" height="480"></iframe>
+https://watch.screencastify.com/v/0PbHsuUTstAsiYkA1ZMy
 
 GIVEN a command-line application that accepts user input
 WHEN I start the application
